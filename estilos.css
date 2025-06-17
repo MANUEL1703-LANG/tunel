@@ -70,7 +70,7 @@ img {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 body {
-    background: linear-gradient(rgba(16, 18, 26, 0.452), rgba(26, 30, 41, 0.411)), url('imagenes123/R\ \(1\).jpg');
+    background: linear-gradient(rgba(16, 18, 26, 0.452), rgba(26, 30, 41, 0.411)), url('R\ \(1\).jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
