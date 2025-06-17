@@ -1,0 +1,156 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1f2852;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+nav a:hover {
+    color: #ccc;
+}
+
+nav a.activo {
+    color: #fff;
+    border-bottom: 2px solid #fff;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+.fotos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.fotos-container img {
+    width: calc(33.33% - 10px);
+    height: 200px;
+    object-fit: cover;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+body {
+    background: linear-gradient(rgba(16, 18, 26, 0.452), rgba(26, 30, 41, 0.411)), url('imagenes123/R\ \(1\).jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+body {
+    color: #fff;
+}
+.filtro1{
+    width: 300px;
+    height: 300px;
+    filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro2{
+    width: 300px;
+    height: 300px;
+    filter:  brightness(1.1) contrast(1.2) saturate(1.1);
+}
+
+.filtro3{
+    width: 300px;
+    height: 300px;
+     filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro4{
+    width: 300px;
+    height: 300px;
+     filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro5{
+    width: 300px;
+    height: 300px;
+     filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro6{
+    width: 300px;
+    height: 300px;
+    filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro7{
+    width: 300px;
+    height: 300px;
+    filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro8{
+    width: 300px;
+    height: 300px;
+    filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro9{
+    width: 300px;
+    height: 300px;
+    filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro10{
+    width: 300px;
+    height: 300px;
+    filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro11{
+    width: 300px;
+    height: 300px;
+    filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro12{
+    width: 300px;
+    height: 300px;
+    filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro13{
+    width: 300px;
+    height: 300px;
+    filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro14{
+    width: 300px;
+    height: 300px;
+    filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
+.filtro15{
+    width: 300px;
+    height: 300px;
+    filter: brightness(1.1) contrast(1.2) saturate(1.1);
+}
